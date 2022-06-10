@@ -1,7 +1,0 @@
-C:\Users\77072\source\repos\CardGame\ConsoleApp\bin\Debug\ConsoleApp.exe.config
-C:\Users\77072\source\repos\CardGame\ConsoleApp\bin\Debug\ConsoleApp.exe
-C:\Users\77072\source\repos\CardGame\ConsoleApp\bin\Debug\ConsoleApp.pdb
-C:\Users\77072\source\repos\CardGame\ConsoleApp\obj\Debug\CardGame.csproj.AssemblyReference.cache
-C:\Users\77072\source\repos\CardGame\ConsoleApp\obj\Debug\CardGame.csproj.CoreCompileInputs.cache
-C:\Users\77072\source\repos\CardGame\ConsoleApp\obj\Debug\ConsoleApp.exe
-C:\Users\77072\source\repos\CardGame\ConsoleApp\obj\Debug\ConsoleApp.pdb
